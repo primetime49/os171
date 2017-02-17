@@ -1,0 +1,5 @@
+w01-120217-09-PS-Doing tasks for week01
+w01-140217-13-LR-Learning about patent and copyright
+w01-140217-14-LR-Introduction to linux script
+w01-160217-13-LR-Lecturer giving direct demo about linux script
+w01-160217-14-PS-Practicing linux script on student laptop
