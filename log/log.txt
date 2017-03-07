@@ -3,8 +3,12 @@ w01-140217-13-LR-Learning about patent and copyright
 w01-140217-14-LR-Introduction to linux script
 w01-160217-13-LR-Lecturer giving direct demo about linux script
 w01-160217-14-PS-Practicing linux script on student laptop
-w02-190217-20-PS-Doing tasks for week01
+w02-190217-20-PS-Doing tasks for week02
 w02-210217-13-LR-Learning about protection and security
 w02-230217-13-LR-Lecturer giving direct demo about coding in c
 w02-230217-14-PS-Practicing c language coding on student laptop
-
+w03-280217-13-LR-Class Lecture
+w03-280217-14-PS-Quiz about linux script
+w03-020317-09-PS-Doing task for week03
+w03-020317-13-LR-Lecture about pointer
+w04-070317-10-PS-Doing tasks for week04
