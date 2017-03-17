@@ -12,3 +12,8 @@ w03-280217-14-PS-Quiz about linux script
 w03-020317-09-PS-Doing task for week03
 w03-020317-13-LR-Lecture about pointer
 w04-070317-10-PS-Doing tasks for week04
+w04-070317-13-LR-Lecture from Mr. Anwar
+w04-090317-13-LR-Lecture from Mr. Anwar
+w05-140317-13-LR-Latihan soal about pointer
+w05-160317-13-LR-Lecture about memory in linux
+w05-170317-14-PS-Doing tasks for week05
