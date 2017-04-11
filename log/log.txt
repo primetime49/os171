@@ -17,3 +17,6 @@ w04-090317-13-LR-Lecture from Mr. Anwar
 w05-140317-13-LR-Latihan soal about pointer
 w05-160317-13-LR-Lecture about memory in linux
 w05-170317-14-PS-Doing tasks for week05
+w06-110417-11-PS-Doing tasks for week06
+w06-110417-13-LR-Lecture about fork
+w06-110417-14-LR-Latihan soal fork dengan loop
