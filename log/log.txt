@@ -20,3 +20,6 @@ w05-170317-14-PS-Doing tasks for week05
 w06-110417-11-PS-Doing tasks for week06
 w06-110417-13-LR-Lecture about fork
 w06-110417-14-LR-Latihan soal fork dengan loop
+w07-180417-13-LR-Lecture about semaphore
+w07-200417-11-PS-Doing task for week07
+w07-200417-13-LR-Latihan soal semaphore
