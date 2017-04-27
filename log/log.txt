@@ -23,3 +23,8 @@ w06-110417-14-LR-Latihan soal fork dengan loop
 w07-180417-13-LR-Lecture about semaphore
 w07-200417-11-PS-Doing task for week07
 w07-200417-13-LR-Latihan soal semaphore
+w08-250417-13-LR-Lecture about task scheduling
+w08-250417-14-LR-Latihan soal scheduling
+w08-270417-11-PS-Doing task for week08
+w08-270417-13-LR-Lecture about socket
+w08-270417-13-LR-Latihan soal scheduling advanced
