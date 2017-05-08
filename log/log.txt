@@ -28,3 +28,7 @@ w08-250417-14-LR-Latihan soal scheduling
 w08-270417-11-PS-Doing task for week08
 w08-270417-13-LR-Lecture about socket
 w08-270417-13-LR-Latihan soal scheduling advanced
+w09-020517-13-LR-Lecture from Mr. anwar
+w09-020517-14-LR-Latihan soal
+w09-040517-13-LR-Lecture about raid
+w09-040517-13-LR-Latihan soal about raid
